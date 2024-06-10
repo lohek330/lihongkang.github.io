@@ -18,7 +18,7 @@ Recent News 🔥
 ======
 2024.05: 😺😺 Two papers accepted by ICML 2024.
 
-2024.03: 😺 One paper accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP).
+2024.03: 😺 One paper accepted by IEEE Journal of Selected Topics in Signal Processing.
 
 2023.10: One paper accepted by Neurips 2023 GLFrontiers Workshop.
 
