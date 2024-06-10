@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hongkang Li (李宏康)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # URL
   location         : "Troy, NY, 12180, USA"
   employer         : "Rensselaer Polytechnic Institute"
   uri              : # URL
@@ -258,9 +258,9 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
