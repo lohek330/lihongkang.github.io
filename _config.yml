@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Hongkang Li"
+description              : &description "a PhD student of RPI"
 url                      : "https://lohek330.github.io/lihongkang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lohek330/lihongkang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
