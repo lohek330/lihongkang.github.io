@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Hongkang Li"
 description              : &description "a PhD student of RPI"
-url                      : "https://lihongkang.github.io"
+url                      : "https://lohek330.github.io/lihongkang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lohek330/lihongkang.github.io"
 
