@@ -9,8 +9,7 @@ redirect_from:
 
 ------
 
-Biography
--------
+# Biography
 
 I am currently a fifth-year PhD student at the [Department of Electrical, Computer, and Systems Engineering](https://ecse.rpi.edu/about) of [Rensselaer Polytechnic Institute](https://www.rpi.edu/). My advisor is Prof. [Meng Wang](https://sites.ecse.rpi.edu/~wang/). Previously, I received my Bachelor's degree from the Department of Electronic Engineering and Information Science at the University of Science and Technology of China in 2019. Here is my [CV](../lihongkang.github.io/assets/CV.pdf).
 
@@ -19,8 +18,9 @@ My research area is machine learning and deep learning theory. My research inter
 + Theoretical parameter-efficient fine-tuning.
 + Graph neural network and its theory.
 
-Recent News 🔥
--------
+------
+# Recent News 🔥
+
 2024.05: 😺😺 Two papers accepted by ICML 2024.
 
 2024.03: 😺 One paper accepted by IEEE Journal of Selected Topics in Signal Processing.
