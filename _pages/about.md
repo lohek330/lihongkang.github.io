@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Biography"
+title: "Hongkang Li's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Biography
+======
 
 I am currently a fifth-year PhD student at the [Department of Electrical, Computer, and Systems Engineering](https://ecse.rpi.edu/about) of [Rensselaer Polytechnic Institute](https://www.rpi.edu/). My advisor is Prof. [Meng Wang](https://sites.ecse.rpi.edu/~wang/). Previously, I received my Bachelor's degree from the Department of Electronic Engineering and Information Science at the University of Science and Technology of China in 2019. Here is my [CV](../lihongkang.github.io/assets/CV.pdf).
 
