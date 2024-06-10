@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Hongkang Li (李宏康)"
 title_separator          : "-"
 name                     : &name "Hongkang Li"
 description              : &description "a PhD student of RPI"
@@ -22,7 +22,7 @@ repository               : "lohek330/lihongkang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hongkang Li (李宏康)"
+  name             : "Hongkang Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
   location         : "Troy, NY, 12180, USA"
