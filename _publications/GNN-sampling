@@ -3,7 +3,7 @@ title: "Generalization Guarantee of Training Graph Convolutional Networks with G
 collection: publications
 permalink: /publication/GNN-sampling
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-07
+date: 2022-07-17
 venue: 'ICML 2022'
 slidesurl: '../lihongkang.github.io/files/GNN_sampling.pdf'
 paperurl: '../lihongkang.github.io/files/GNN_sampling_slides.pdf'
