@@ -43,6 +43,7 @@ Graph Topology Sampling](https://arxiv.org/pdf/2207.03584), ICML 2022. [Poster](
 \* represents equal contribution
 ## 2024
 1. **Hongkang Li**, Meng Wang, Shuai Zhang, Sijia Liu, Pin-Yu Chen. "Learning on Transformers is Provable Low-Rank and Sparse: A One-layer Analysis", (SAM 2024) 2024 IEEE 13th Sensor Array and Multichannel Signal Processing Workshop.
+   
 ## 2023
 1. **Hongkang Li**, Meng Wang, Songtao Lu, Hui Wan, Xiaodong Cui, Pin-Yu Chen. [Transformers as Multi-Task Feature Selectors: Generalization Analysis of In-Context Learning](https://openreview.net/pdf?id=BMQ4i2RVbE), (M3L 2023) Mathematics of Modern Machine Learning Workshop at NeurIPS 2023.
 
