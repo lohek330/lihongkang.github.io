@@ -17,6 +17,7 @@ author_profile: true
 1. Yuankai Luo, **Hongkang Li**, Lei Shi, Xiao-Ming Wu. [Enhancing Graph Transformers with Hierarchical Distance Structural Encoding](https://arxiv.org/pdf/2308.11129).
 2. Yihua Zhang*, **Hongkang Li***, Yuguang Yao*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
 3. Jiawei Sun, **Hongkang Li**, Meng Wang. "How do skip connections affect Graph Convolutional networks with graph sampling? A theoretical analysis on generalization."
+-------
 
 # Conference Papers
 \* represents equal contribution
@@ -35,9 +36,13 @@ How Can Personalized Context Help? Exploring Joint Retrieval of Passage and Pers
 Graph Topology Sampling](https://arxiv.org/pdf/2207.03584), ICML 2022. [Poster](https://lohek330.github.io/lihongkang.github.io/files/GNN_sampling_slides.pdf)
 2. **Hongkang Li**, Shuai Zhang, Meng Wang. [Learning and generalization of one-hidden-layer neural networks, going beyond standard gaussian data](https://arxiv.org/pdf/2207.03615), CISS 2022. [Poster](https://lohek330.github.io/lihongkang.github.io/files/CISS_mixed_Gaussian.pdf)
 
+------
+
 # Journal Papers
 \* represents equal contribution
 1. **Hongkang Li**, Shuai Zhang, Yihua Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen. [How does promoting the minority fraction affect generalization? A theoretical study of the one-hidden-layer neural network on group imbalance](https://arxiv.org/pdf/2403.07310), IEEE Journal of Selected Topics in Signal Processing (JSTSP), Special Series on AI in Signal & Data Science - Toward Explainable, Reliable, and Sustainable Machine Learning, March 2024. 
+
+------
 
 # Workshop Papers
 \* represents equal contribution
