@@ -14,7 +14,7 @@ author_profile: true
 ------
 
 
-* **Theoretical and Algorithmic Foundations of In-Context Learning Using Properly Trained Transformer Models**. IBM-RPI FCRC Seminar Series. [Poster]()
+* **Theoretical and Algorithmic Foundations of In-Context Learning Using Properly Trained Transformer Models**. IBM-RPI FCRC Seminar Series. [Poster](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_slides.pdf)
 
 *  **A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity**. ICLR 2023 poster presentation.
 
