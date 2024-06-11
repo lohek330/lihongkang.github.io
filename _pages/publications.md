@@ -15,9 +15,9 @@ author_profile: true
 
 # Preprints
 \* represents equal contribution
-1. Yuankai Luo, **Hongkang Li**, Lei Shi, Xiao-Ming Wu. [Enhancing Graph Transformers with Hierarchical Distance Structural Encoding](https://arxiv.org/pdf/2308.11129).
-2. Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
-3. Jiawei Sun, **Hongkang Li**, Meng Wang. "How do skip connections affect Graph Convolutional networks with graph sampling? A theoretical analysis on generalization."
+* Yuankai Luo, **Hongkang Li**, Lei Shi, Xiao-Ming Wu. [Enhancing Graph Transformers with Hierarchical Distance Structural Encoding](https://arxiv.org/pdf/2308.11129).
+* Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
+* Jiawei Sun, **Hongkang Li**, Meng Wang. "How do skip connections affect Graph Convolutional networks with graph sampling? A theoretical analysis on generalization."
 
 ------
 
