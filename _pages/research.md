@@ -26,4 +26,10 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 
 **Background**: Graph Transformers (GT), which incorporates self-attention and positional encoding, is a novel and powerful architecture for graph learning. However, it is challenging to establish a theoretical foundation for learning and generalization because of the complex nonconvex interactions across layers and the recursive graph structure. The goal of this project is to explain the following questions:
 <center><b><em>Under what conditions can a Graph Transformer achieve desired generalization?</em></b></center>
+
 <center><b><em>What is the advantage of self-attention and positional encoding in graph learning?</em></b></center>
+
+**Contributions**: This work makes the following contributions based on the GT architecture and the graph data (an example) formulated below:
+<div align=center><img width="850" height="200" src="../images/GT_formulation.png"/></div>
+
+1. We establish a novel and extendable framework for the optimization and generalization analysis of shallow GTs, while the state-of-the-art theoretical works on graph neural networks exclude attention layers. 
