@@ -11,8 +11,14 @@ author_profile: true
 
 {% endif %}
 
-# 2024
+------
 
+
+* **Theoretical and Algorithmic Foundations of In-Context Learning Using Properly Trained Transformer Models**. IBM-RPI FCRC Seminar Series. [Poster]()
+
+*  **A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity**. ICLR 2023 poster presentation.
+
+*  **Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling**. ICML 2022 short presentation. 
 
 <!---
 {% for post in site.talks reversed %}
