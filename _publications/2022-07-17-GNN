@@ -1,5 +1,6 @@
 ---
 title: "Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling"
+authors: **Hongkang Li**, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong
 collection: publications
 permalink: /publications/2022-07-17-GNN/
 excerpt: 'This paper provides the first theoretical justification of graph topology sampling in training three-layer GCNs for semi-supervised node classification. '
