@@ -19,3 +19,11 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 3. Given the ICL mechanism, we theoretically justify the validity of magnitude-based pruning in preserving ICL. We conclude that pruning neurons with a small magnitude has little effect on the generalization.
 
 **Publication**: _**Hongkang Li**_, _Meng Wang_, _Songtao Lu_, _Xiaodong Cui_, _Pin-Yu Chen_. [How Do Nonlinear Transformers Learn and Generalize in In-Context Learning](https://arxiv.org/pdf/2402.15607). _ICML 2024_. [long slides](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_slides.pdf)
+
+
+------
+## Generalization of Graph Transformers: the Impact of Self-Attention and Positional Encoding
+
+**Background**: Graph Transformers (GT), which incorporates self-attention and positional encoding, is a novel and powerful architecture for graph learning. However, it is challenging to establish a theoretical foundation for learning and generalization because of the complex nonconvex interactions across layers and the recursive graph structure. The goal of this project is to explain the following questions:
+<center><b><em>Under what conditions can a Graph Transformer achieve desired generalization?</em></b></center>
+<center><b><em>What is the advantage of self-attention and positional encoding in graph learning?</em></b></center>
