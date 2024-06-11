@@ -30,6 +30,6 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 <center><b><em>What is the advantage of self-attention and positional encoding in graph learning?</em></b></center>
 
 **Contributions**: This work makes the following contributions based on the GT architecture and the graph data (an example) formulated below:
-<div align=center><img width="850" height="200" src="../images/GT_formulation.png"/></div>
+<div align=center><img width="400" height="200" src="../images/GT_formulation.png"/></div>
 
 1. We establish a novel and extendable framework for the optimization and generalization analysis of shallow GTs, while the state-of-the-art theoretical works on graph neural networks exclude attention layers. 
