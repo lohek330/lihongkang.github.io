@@ -30,6 +30,11 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 <center><b><em>What is the advantage of self-attention and positional encoding in graph learning?</em></b></center>
 
 **Contributions**: This work makes the following contributions based on the GT architecture and the graph data (an example) formulated below:
-<div align=center><img width="400" height="200" src="../images/GT_formulation.png"/></div>
+<div align=center><img width="500" height="250" src="../images/GT_formulation.png"/></div>
 
-1. We establish a novel and extendable framework for the optimization and generalization analysis of shallow GTs, while the state-of-the-art theoretical works on graph neural networks exclude attention layers. 
+1. We establish a novel and extendable framework for the optimization and generalization analysis of shallow GTs, while the state-of-the-art theoretical works on graph neural networks exclude attention layers.
+2. We theoretically characterize the benefits of the self-attention layer of GTs. That is, the self-attention evolves in a way that promotes class-relevant nodes during training, which leads to a sparse trained attention map.
+3. We demonstrate that the trainable positional embedding improves the generalization by promoting the nodes in the core neighborhood, which reduces the training iterations and sample complexity. The following figure (Figure 8 in the publication below) shows the success of positional encoding in indicating the core neighborhood for graph learning and motivating graph sampling methods for GT: for every distance $z$, the trend of values of positional encoding $b_z$ is aligned with PE-based sampling, i.e., only using the distance-$z$ neighborhood for training.
+<div align=center><img width="850" height="200" src="../images/GT_PE_exp.png"/></div>
+
+**Publication**: _**Hongkang Li**_, _Meng Wang_, _Tengfei Ma_, _Sijia Liu_, _Zaixi Zhang_, _Pin-Yu Chen_. [What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding](https://arxiv.org/pdf/2406.01977). _ICML 2024_.
