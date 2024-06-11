@@ -16,9 +16,9 @@ author_profile: true
 
 * **Theoretical and Algorithmic Foundations of In-Context Learning Using Properly Trained Transformer Models**. IBM-RPI FCRC Seminar Series. [Poster](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_slides.pdf)
 
-*  **A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity**. ICLR 2023 poster presentation.
+*  **A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity**. ICLR 2023 poster presentation. [video](https://iclr.cc/virtual/2023/poster/11387)
 
-*  **Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling**. ICML 2022 short presentation. 
+*  **Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling**. ICML 2022 short presentation. [video](https://icml.cc/virtual/2022/spotlight/16764)
 
 <!---
 {% for post in site.talks reversed %}
