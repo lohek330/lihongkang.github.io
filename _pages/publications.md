@@ -28,17 +28,19 @@ How Can Personalized Context Help? Exploring Joint Retrieval of Passage and Pers
 
 ## 2023
 1. Shuai Zhang, **Hongkang Li**, Meng Wang, Miao Liu, Pin-Yu Chen, Songtao Lu, Sijia Liu, Keerthiram Murugesan, Subhajit Chaudhury. [On the Convergence and Sample Complexity Analysis of Deep Q-Networks with -Greedy Exploration](https://arxiv.org/pdf/2310.16173), Neurips 2023. 
-2. **Hongkang Li**, Meng Wang, Sijia Liu, Pin-Yu Chen. [A Theoretical Understanding of shallow Vision Transformers: Learning, Generalization, and Sample Complexity](https://arxiv.org/pdf/2302.06015), ICLR 2023.
+2. **Hongkang Li**, Meng Wang, Sijia Liu, Pin-Yu Chen. [A Theoretical Understanding of shallow Vision Transformers: Learning, Generalization, and Sample Complexity](https://arxiv.org/pdf/2302.06015), ICLR 2023. [Poster](https://lohek330.github.io/lihongkang.github.io/files/transformer_analysis.pdf)
 
 ## 2022
 1. **Hongkang Li**, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong. [Generalization Guarantee of Training Graph Convolutional Networks with
 Graph Topology Sampling](https://arxiv.org/pdf/2207.03584), ICML 2022. [Poster](https://lohek330.github.io/lihongkang.github.io/files/GNN_sampling_slides.pdf)
-2. **Hongkang Li**, Shuai Zhang, Meng Wang. [Learning and generalization of one-hidden-layer neural networks, going beyond standard gaussian data](https://arxiv.org/pdf/2207.03615), CISS 2022.
+2. **Hongkang Li**, Shuai Zhang, Meng Wang. [Learning and generalization of one-hidden-layer neural networks, going beyond standard gaussian data](https://arxiv.org/pdf/2207.03615), CISS 2022. [Poster](https://lohek330.github.io/lihongkang.github.io/files/CISS_mixed_Gaussian.pdf)
 
 # Journal Papers
+\* represents equal contribution
 1. **Hongkang Li**, Shuai Zhang, Yihua Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen. [How does promoting the minority fraction affect generalization? A theoretical study of the one-hidden-layer neural network on group imbalance](https://arxiv.org/pdf/2403.07310), IEEE Journal of Selected Topics in Signal Processing (JSTSP), Special Series on AI in Signal & Data Science - Toward Explainable, Reliable, and Sustainable Machine Learning, March 2024. 
 
 # Workshop Papers
+\* represents equal contribution
 ## 2024
 1. **Hongkang Li**, Meng Wang, Shuai Zhang, Sijia Liu, Pin-Yu Chen. "Learning on Transformers is Provable Low-Rank and Sparse: A One-layer Analysis", (SAM 2024) 2024 IEEE 13th Sensor Array and Multichannel Signal Processing Workshop.
 ## 2023
