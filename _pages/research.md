@@ -38,3 +38,17 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 <div align=center><img width="850" height="200" src="../images/GT_PE_exp.png"/></div>
 
 **Publication**: _**Hongkang Li**_, _Meng Wang_, _Tengfei Ma_, _Sijia Liu_, _Zaixi Zhang_, _Pin-Yu Chen_. [What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding](https://arxiv.org/pdf/2406.01977). _ICML 2024_.
+
+------
+## Learning, Generalization, and Sample Complexity of Vision Transformers
+
+**Background**: Vision Transformers (ViTs) with self-attention modules have achieved great empirical success in many vision tasks. However, theoretical learning and generalization analysis is mostly elusive. This project tries to answer the following question:
+<center><b><em>Under what conditions does a Transformer achieve satisfactory generalization?</em></b></center>
+
+**Contributions**: This work makes the following contributions.
+
+1. We propose a new analytical framework to tackle the non-convex optimization and generalization for a one-layer ViT, which includes one self-attention layer followed by a two-layer perceptron, for a classification task. This is more challenging than previous works on conventional neural networks without self-attention layers.
+2. We theoretically depict the evolution of the attention map during the training and characterize how “attention” is paid to different tokens during the training. Specifically, we show that under the structured data model, the learning parameters of the self-attention module grow in the direction that projects the data to the label-relevant patterns, resulting in an increasingly sparse attention map.
+3. We provide a theoretical explanation for the improved generalization using token sparsification. On one hand, if a token sparsification method can remove class-irrelevant and/or highly noisy tokens, then the sample complexity is reduced while achieving the same testing accuracy. On the other hand, token sparsification can also remove spurious correlations to improve the testing accuracy.
+
+
