@@ -33,5 +33,7 @@ My research area is machine learning and deep learning theory. My research inter
 
 2023.09: One paper accepted by Neurips 2023.
 
+2023.05: I will join IBM Research as a research intern this summer, under the supervision of [Dr. Songtao Lu](https://songtaogithub.github.io/), [Dr. Hui Wan](https://sites.google.com/view/hui-wan), and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui). 
+
 
 
