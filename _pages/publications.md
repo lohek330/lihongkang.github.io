@@ -49,6 +49,8 @@ Graph Topology Sampling](https://arxiv.org/pdf/2207.03584), ICML 2022. [Poster](
 # Workshop Papers
 \* represents equal contribution
 
+* **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. [How Do Nonlinear Transformers Acquire Generalization-Guaranteed CoT Ability?](https://openreview.net/pdf?id=8pM8IrT6Xo), High-dimensional Learning Dynamics Workshop: The Emergence of Structure and Reasoning (HiLD) and Workshop on Theoretical Foundations of Foundation Models (TF2M) at ICML 2024. 
+
 * **Hongkang Li**, Meng Wang, Shuai Zhang, Sijia Liu, Pin-Yu Chen. "Learning on Transformers is Provable Low-Rank and Sparse: A One-layer Analysis", (SAM 2024) 2024 IEEE 13th Sensor Array and Multichannel Signal Processing Workshop.
    
 
