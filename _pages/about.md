@@ -18,6 +18,8 @@ My research area is machine learning and deep learning theory. My research inter
 + Theoretical parameter-efficient fine-tuning.
 + Graph neural network and its theory.
 
+<font color=red>**I am looking for postdoc positions starting from January 2025.**</font>
+
 ------
 # Recent News 🔥
 
