@@ -11,3 +11,8 @@ author_profile: true
 <div align=center><img width="400" height="480" src="../images/crusoe_2.jpg"/></div>
 
 <div align=center><img width="400" height="300" src="../images/crusoe_3.jpg"/></div>
+
+* I have been playing the piano since 6 years old. Here is an audio.
+<video width="320" height="240" controls>
+    <source src="../videos/etude.mp4" type="video/mp4">
+</video>
