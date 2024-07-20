@@ -13,6 +13,6 @@ author_profile: true
 <div align=center><img width="400" height="300" src="../images/crusoe_3.jpg"/></div>
 
 * I have been playing the piano since 6 years old. Here is an audio of Étude Op. 10, No. 3 (Farewell) by Frédéric Chopin that I played in 2019.
-<video width="100" height="10" controls>
+<video width="300" height="50" controls>
     <source src="../videos/etude.mp4" type="video/mp4">
 </video>
