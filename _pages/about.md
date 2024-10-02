@@ -23,13 +23,15 @@ My research area is machine learning and deep learning theory. My research inter
 ------
 # Recent News 🔥
 
+2024.09: 😺 One paper accepted by Neurips 2024.
+
 2024.07: I presented two works at IEEE SAM Workshop held at Oregon State University, US. 
 
 2024.06: One paper accepted by ICML 2024 TF2M Workshop and HiLD Workshop.
 
-2024.05: 😺😺 Two papers accepted by ICML 2024.
+2024.05: 😺😺 Two papers accepted by ICML 2024. One is on [In-Context Learning](https://arxiv.org/pdf/2402.15607). Another is on [Graph Transformers](https://arxiv.org/pdf/2406.01977).
 
-2024.03: 😺 One paper accepted by IEEE Journal of Selected Topics in Signal Processing.
+2024.03: 😺 One paper on [learning with group imbalance](https://arxiv.org/pdf/2403.07310) accepted by IEEE Journal of Selected Topics in Signal Processing.
 
 2023.10: One paper accepted by Neurips 2023 GLFrontiers Workshop.
 
