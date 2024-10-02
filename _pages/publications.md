@@ -15,7 +15,7 @@ author_profile: true
 
 # Preprints
 \* represents equal contribution
-* Yuankai Luo, **Hongkang Li**, Lei Shi, Xiao-Ming Wu. [Enhancing Graph Transformers with Hierarchical Distance Structural Encoding](https://arxiv.org/pdf/2308.11129).
+* **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. "Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis. "
 * Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
 * Jiawei Sun, **Hongkang Li**, Meng Wang. "How do skip connections affect Graph Convolutional networks with graph sampling? A theoretical analysis on generalization."
 
@@ -24,6 +24,7 @@ author_profile: true
 # Conference Papers
 \* represents equal contribution
 
+* Yuankai Luo, **Hongkang Li**, Lei Shi, Xiao-Ming Wu. [Enhancing Graph Transformers with Hierarchical Distance Structural Encoding](https://arxiv.org/pdf/2308.11129), Neurips 2024.
 * **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. [How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?](https://arxiv.org/pdf/2402.15607), ICML 2024.
 * **Hongkang Li**, Meng Wang, Tengfei Ma, Sijia Liu, Zaixi Zhang, Pin-Yu Chen. [What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding](https://arxiv.org/pdf/2406.01977), ICML 2024.
 * Hui Wan, **Hongkang Li**, Songtao Lu, Xiaodong Cui, Marina Danilevsky. [	
