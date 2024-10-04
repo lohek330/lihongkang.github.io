@@ -15,7 +15,7 @@ author_profile: true
 
 # Preprints
 \* represents equal contribution
-* **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. "Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis. "
+* **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. "[Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://arxiv.org/pdf/2410.02167). "
 * **Hongkang Li**, Yihua Zhang, Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen. "When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers."
 * Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
 * Jiawei Sun, **Hongkang Li**, Meng Wang. "How do skip connections affect Graph Convolutional networks with graph sampling? A theoretical analysis on generalization."
