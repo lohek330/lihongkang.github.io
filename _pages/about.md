@@ -18,10 +18,14 @@ My research area is machine learning and deep learning theory. My research inter
 + Theoretical parameter-efficient fine-tuning.
 + Graph neural network and its theory.
 
-<font color=red><b>I am looking for a postdoc position starting from early 2025.</b></font>
+<font color=red><b>I am looking for a postdoc position starting from 2025.</b></font>
 
 ------
 # Recent News 🔥
+
+2025.01: :fire: :fire: :fire: Three papers, including two first-author works, were accepted in ICLR 2025: :star: [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://openreview.net/forum?id=n7n8McETXw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), :star: [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), and :star: [Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://openreview.net/forum?id=t9lS1lX9FQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)).
+
+2024.11: I have passed my doctoral dissertation exam! :mortar_board:
 
 2024.09: 😺 One paper accepted by Neurips 2024.
 
