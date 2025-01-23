@@ -15,8 +15,6 @@ author_profile: true
 
 # Preprints
 \* represents equal contribution
-* **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. "[Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://arxiv.org/pdf/2410.02167). "
-* **Hongkang Li**, Yihua Zhang, Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen. "When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers."
 * Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
 * Jiawei Sun, **Hongkang Li**, Meng Wang. "How do skip connections affect Graph Convolutional networks with graph sampling? A theoretical analysis on generalization."
 
@@ -25,6 +23,9 @@ author_profile: true
 # Conference Papers
 \* represents equal contribution
 
+* **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://openreview.net/forum?id=n7n8McETXw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ICLR 2025.
+* **Hongkang Li**, Yihua Zhang, Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen. [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ICLR 2025.
+* Yuankai Luo, **Hongkang Li**, Qijiong Liu, Lei Shi, Xiao-Ming Wu. [Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://openreview.net/forum?id=t9lS1lX9FQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ICLR 2025.
 * Yuankai Luo, **Hongkang Li**, Lei Shi, Xiao-Ming Wu. [Enhancing Graph Transformers with Hierarchical Distance Structural Encoding](https://arxiv.org/pdf/2308.11129), Neurips 2024.
 * **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. [How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?](https://arxiv.org/pdf/2402.15607), ICML 2024.
 * **Hongkang Li**, Meng Wang, Tengfei Ma, Sijia Liu, Zaixi Zhang, Pin-Yu Chen. [What Improves the Generalization of Graph Transformers? A Theoretical Dive into the Self-attention and Positional Encoding](https://arxiv.org/pdf/2406.01977), ICML 2024.
