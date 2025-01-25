@@ -18,6 +18,8 @@ My research area is machine learning and deep learning theory. My research inter
 + Theoretical parameter-efficient fine-tuning.
 + Graph neural network and its theory.
 
+Contact: lohek330@gmail.com; lih42@rpi.edu; lih35@rpi.edu (my old email account).
+
 <font color=red><b>I am looking for a postdoc position starting from 2025.</b></font>
 
 ------
