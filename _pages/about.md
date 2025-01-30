@@ -27,7 +27,7 @@ Contact: lohek330@gmail.com; lih42@rpi.edu; lih35@rpi.edu (my old email account)
 
 2025.01: 🔥 🔥 🔥 Three papers, including two first-author works, were accepted in ICLR 2025: ⭐ [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://openreview.net/forum?id=n7n8McETXw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ⭐ [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), and ⭐ [Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://openreview.net/forum?id=t9lS1lX9FQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)).
 
-2024.11: I have passed my doctoral dissertation exam! :mortar_board:
+2024.11: I have passed my doctoral dissertation exam! 🎓
 
 2024.09: 😺 One paper accepted by Neurips 2024.
 
