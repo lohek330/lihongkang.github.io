@@ -11,7 +11,8 @@ redirect_from:
 
 # Biography
 
-I am currently a fifth-year PhD student at the [Department of Electrical, Computer, and Systems Engineering](https://ecse.rpi.edu/about) of [Rensselaer Polytechnic Institute](https://www.rpi.edu/). My advisor is Prof. [Meng Wang](https://sites.ecse.rpi.edu/~wang/). Previously, I received my Bachelor's degree from the Department of Electronic Engineering and Information Science at the University of Science and Technology of China in 2019. Here is my [CV](../lihongkang.github.io/assets/CV.pdf).
+I am a postdoctoral researcher at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). I will join [the Center for Innovation in
+Data Engineering and Science (IDEAS)](https://ideas.seas.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) as a postdoctoral researcher starting from June 2025. Previously, I received my PhD degree from the [Department of Electrical, Computer, and Systems Engineering](https://ecse.rpi.edu/about) of [Rensselaer Polytechnic Institute](https://www.rpi.edu/) in 2024. My advisor is Prof. [Meng Wang](https://sites.ecse.rpi.edu/~wang/). I received my Bachelor's degree from the Department of Electronic Engineering and Information Science at the University of Science and Technology of China in 2019. Here is my [CV](../lihongkang.github.io/assets/CV.pdf).
 
 My research area is machine learning and deep learning theory. My research interests include
 + Generalization and optimization theory of Transformer-based foundation models.
