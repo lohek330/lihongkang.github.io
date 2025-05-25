@@ -12,7 +12,7 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 ## Task Vector for Model Editing: A Generalization Analysis
 
 **Background**: Task arithmetic refers to editing the pre-trained model by adding a weighted sum of task vectors, each of which is the weight update from the pre-trained model to fine-tuned models for each task. Empirical evidence shows that using multiple task
-vectors can efficiently improve the model’s performance on multi-task learning, forgetting, and out-of-domain generalization. However, the theoretical analysis of task vectors is less investigated, due to the highly non-convexity of training Transformer-based models. This project mainly studies: <center><b><em>When and why can the task vector approach perform well in multi-task learning, unlearning, and
+vectors can efficiently improve the model’s performance on multi-task learning, forgetting, and out-of-domain generalization. Meanwhile, the task arithmetic method performs quite differently with different task correlations. However, the theoretical analysis of task vectors is less investigated, due to the highly non-convexity of training Transformer-based models. This project mainly studies: <center><b><em>When and why can the task vector approach perform well in multi-task learning, unlearning, and
 out-of-domain generalization successfully and efficiently?</em></b></center>
 
 **Contribution**: This work is the first theoretical generalization analysis of task arithmetic on a nonlinear Transformer model for multi-task learning, unlearning, and out-of-domain generalization. The technical contributions include:
