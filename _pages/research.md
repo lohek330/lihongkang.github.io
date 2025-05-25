@@ -20,7 +20,7 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 3. We provide a quantitative analysis of the requirements for successful ICL reasoning with our studied trained model. We show that
 successful ICL requires an additional condition (Condition 1) that the prompt has a dominant number of correct input-label examples, while the success of CoT does not depend on this condition. This can be viewed as one of the possible reasons why CoT outperforms ICL. <div align=center><img width="850" height="200" src="../images/cot_image.png"/></div>
 
-**Publication**: _**Hongkang Li**_, _Meng Wang_, _Songtao Lu_, _Xiaodong Cui_, _Pin-Yu Chen_. [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://arxiv.org/abs/2410.02167). _ICLR 2025_. [long slides](https://lohek330.github.io/lihongkang.github.io/files/cot_ibm_slides.pdf)
+**Publication**: _**Hongkang Li**_, _Songtao Lu_, _Pin-Yu Chen_, _Xiaodong Cui_, _Meng Wang_. [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://arxiv.org/abs/2410.02167). _ICLR 2025_. [long slides](https://lohek330.github.io/lihongkang.github.io/files/cot_ibm_slides.pdf)
 
 
 
