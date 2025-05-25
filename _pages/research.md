@@ -9,18 +9,18 @@ Large-scale foundation models, like GPT-3, GPT-4, and LLaMa have achieved remark
 
 
 ------
-## Training Nonlinear Transformers for Chain-of-Thought Generalization
+## Task Vector for Model Editing: A Generalization Analysis
 
 **Background**: Chain-of-Thought (CoT) is an efficient prompting method that enables the reasoning ability of large language models by augmenting the query with multiple examples that contain multiple intermediate steps. Despite the empirical success, the theoretical understanding of how to train a Transformer to achieve the CoT ability remains less explored. This project mainly studies: <center><b><em>Why can a Transformer be trained to generalize on multi-step reasoning tasks via CoT?</em></b></center>
 
-**Contribution**: We make the following contributions in this work:
+**Contribution**: This work is the first theoretical generalization analysis of task arithmetic on a nonlinear Transformer model for multi-task learning, unlearning, and out-of-domain generalization. The technical contributions include:
 
 1. We theoretically analyze the training dynamics on a one-layer single-head attention-only Transformer and quantify the required number of context examples in each training sample, the total number of training samples, and the number of training iterations needed to acquire CoT ability. We illustrate that Transformers implement CoT by attending to the context examples with the same input patterns as the query during each reasoning step.
 2. We characterize the required number of context examples in the testing prompt for successful CoT reasoning when noise and error exist in contexts. Our quantitative bounds are consistent with the intuition that more accurate context examples and more similar examples to the query improve CoT accuracy.
 3. We provide a quantitative analysis of the requirements for successful ICL reasoning with our studied trained model. We show that
-successful ICL requires an additional condition (Condition 1) that the prompt has a dominant number of correct input-label examples, while the success of CoT does not depend on this condition. This can be viewed as one of the possible reasons why CoT outperforms ICL. <div align=center><img width="850" height="200" src="../images/cot_image.png"/></div>
+successful ICL requires an additional condition (Condition 1) that the prompt has a dominant number of correct input-label examples, while the success of CoT does not depend on this condition. This can be viewed as one of the possible reasons why CoT outperforms ICL. <div align=center><img width="990" height="160" src="../images/tv_image.png"/></div>
 
-**Publication**: _**Hongkang Li**_, _Yihua Zhang_, _Shuai Zhang_, _Pin-Yu Chen_, _Sijia Liu_, _Meng Wang_. [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://arxiv.org/pdf/2504.10957). _ICLR 2025 **Oral**_. [slides](https://lohek330.github.io/lihongkang.github.io/files/cot_ibm_slides.pdf)
+**Publication**: _**Hongkang Li**_, _Yihua Zhang_, _Shuai Zhang_, _Pin-Yu Chen_, _Sijia Liu_, _Meng Wang_. [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://arxiv.org/pdf/2504.10957). _ICLR 2025 **Oral**_. [slides](https://lohek330.github.io/lihongkang.github.io/files/tv_slides.pdf)
 
 
 ------
