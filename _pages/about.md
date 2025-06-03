@@ -11,20 +11,20 @@ redirect_from:
 
 # Biography
 
-I am a postdoctoral researcher at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). <!--I will join [the Center for Innovation in
-Data Engineering and Science (IDEAS)](https://ideas.seas.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) as a postdoctoral researcher starting from June 2025.--> 
-Previously, I received my PhD degree from the [Department of Electrical, Computer, and Systems Engineering](https://ecse.rpi.edu/about) of [Rensselaer Polytechnic Institute](https://www.rpi.edu/) in 2024. My advisor is Prof. [Meng Wang](https://sites.ecse.rpi.edu/~wang/). I received my Bachelor's degree from the Department of Electronic Engineering and Information Science at the University of Science and Technology of China in 2019. Here is my [CV](../lihongkang.github.io/assets/CV.pdf).
+I am a postdoctoral researcher of [Department of Electrical and System Engineering]([https://ideas.seas.upenn.edu/](https://www.ese.upenn.edu/)) at the [University of Pennsylvania](https://www.upenn.edu/). My advisor is Prof. [Rene Vidal](https://www.grasp.upenn.edu/people/rene-vidal/). Previously, I received my PhD degree from the [Department of Electrical, Computer, and Systems Engineering](https://ecse.rpi.edu/about) of [Rensselaer Polytechnic Institute](https://www.rpi.edu/) in 2024. My advisor is Prof. [Meng Wang](https://sites.ecse.rpi.edu/~wang/). I received my Bachelor's degree from the Department of Electronic Engineering and Information Science at the University of Science and Technology of China in 2019. Here is my [CV](../lihongkang.github.io/assets/CV.pdf).
 
 My research area is machine learning and deep learning theory. My research interests include
 + Generalization and optimization theory of Transformer-based foundation models.
 + Theoretical parameter-efficient fine-tuning.
 + Graph neural network and its theory.
 
-Contact: lohek330@gmail.com; lih42@rpi.edu; lih35@rpi.edu (my old email account).
+Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 
 
 ------
 # Recent News 🔥
+
+2025.06: I completed my six years at RPI and have joined the University of Pennsylvania as a postdoctoral researcher. 
 
 2025.05: ⭐ I am honored to be recognized as an [ICLR 2025 Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers).
 
