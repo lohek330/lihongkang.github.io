@@ -24,7 +24,7 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
-2025.06: ♥️ I completed my six years at RPI and have joined the University of Pennsylvania as a postdoctoral researcher 🚀. 
+2025.06: ❤️ I completed my six great years at RPI and have joined the University of Pennsylvania as a postdoctoral researcher 🚀. 
 
 2025.05: ⭐ I am honored to be recognized as an [ICLR 2025 Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers).
 
