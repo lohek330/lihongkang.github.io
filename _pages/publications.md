@@ -16,7 +16,6 @@ author_profile: true
 # Preprints
 \* represents equal contribution
 * Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
-* Jiawei Sun, **Hongkang Li**, Meng Wang. "How do skip connections affect Graph Convolutional networks with graph sampling? A theoretical analysis on generalization."
 
 ------
 
@@ -45,6 +44,8 @@ Graph Topology Sampling](https://arxiv.org/pdf/2207.03584), ICML 2022. [Poster](
 
 # Journal Papers
 \* represents equal contribution
+* Jiawei Sun, **Hongkang Li**, Meng Wang. [Theoretical Learning Performance of Graph Networks: the Impact of Jumping Connections and Layer-wise Sparsification](https://openreview.net/forum?id=Q9AkJpfJks&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)), Transaction on Machine Learning Research, May 2025. 
+
 * **Hongkang Li**, Shuai Zhang, Yihua Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen. [How does promoting the minority fraction affect generalization? A theoretical study of the one-hidden-layer neural network on group imbalance](https://arxiv.org/pdf/2403.07310), IEEE Journal of Selected Topics in Signal Processing (JSTSP), Special Series on AI in Signal & Data Science - Toward Explainable, Reliable, and Sustainable Machine Learning, March 2024. 
 
 ------
