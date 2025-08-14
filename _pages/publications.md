@@ -67,7 +67,7 @@ Graph Topology Sampling](https://arxiv.org/pdf/2207.03584), ICML 2022. [Poster](
 
 # Thesis
 
-**Hongkang Li**. [Optimization and Generalization Analysis of Advanced Neural Networks and Learning Algorithms](https://github.com/lohek330/lihongkang.github.io/blob/master/files/thesis_hongkang_Li.pdf), 2024.
+**Hongkang Li**. [Optimization and Generalization Analysis of Advanced Neural Networks and Learning Algorithms](https://github.com/lohek330/lihongkang.github.io/files/thesis_hongkang_Li.pdf), 2024.
 
 <!---
 {% for post in site.publications reversed %}
