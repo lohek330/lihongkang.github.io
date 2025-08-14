@@ -19,6 +19,7 @@ author_profile: true
 
 ------
 
+
 # Conference Papers
 \* represents equal contribution
 
@@ -53,13 +54,20 @@ Graph Topology Sampling](https://arxiv.org/pdf/2207.03584), ICML 2022. [Poster](
 # Workshop Papers
 \* represents equal contribution
 
-* **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. [How Do Nonlinear Transformers Acquire Generalization-Guaranteed CoT Ability?](https://openreview.net/pdf?id=HizDrDvxLP), High-dimensional Learning Dynamics Workshop: The Emergence of Structure and Reasoning (HiLD) and Workshop on Theoretical Foundations of Foundation Models (TF2M) at ICML 2024. 
+* Jiawei Sun, Shuai Zhang, **Hongkang Li**, Meng Wang. [Theoretical Guarantees and Training Dynamics of Contrastive Learning: How Misaligned Data Influence Feature Purity](https://openreview.net/pdf?id=rO9riCUHD9), (HiLD 2024) 2nd Workshop on High-dimensional Learning Dynamics at ICML 2024.
 
-* **Hongkang Li**, Meng Wang, Shuai Zhang, Sijia Liu, Pin-Yu Chen. "Learning on Transformers is Provable Low-Rank and Sparse: A One-layer Analysis", (SAM 2024) 2024 IEEE 13th Sensor Array and Multichannel Signal Processing Workshop.
+* **Hongkang Li**, Songtao Lu, Xiaodong Cui, Pin-Yu Chen, Meng Wang. [Understanding Mamba in In-Context Learning with Outliers: A Theoretical Generalization Analysis](https://openreview.net/pdf?id=DHyGZHBZci), (HiLD 2024) 2nd Workshop on High-dimensional Learning Dynamics at ICML 2024.
+
+* **Hongkang Li**, Meng Wang, Shuai Zhang, Sijia Liu, Pin-Yu Chen. [Learning on Transformers is Provable Low-Rank and Sparse: A One-layer Analysis](https://arxiv.org/pdf/2406.17167), (SAM 2024) 2024 IEEE 13th Sensor Array and Multichannel Signal Processing Workshop.
    
 
 * **Hongkang Li**, Meng Wang, Songtao Lu, Hui Wan, Xiaodong Cui, Pin-Yu Chen. [Transformers as Multi-Task Feature Selectors: Generalization Analysis of In-Context Learning](https://openreview.net/pdf?id=BMQ4i2RVbE), (M3L 2023) Mathematics of Modern Machine Learning Workshop at NeurIPS 2023.
 
+------
+
+# Thesis
+
+**Hongkang Li**. [Optimization and Generalization Analysis of Advanced Neural Networks and Learning Algorithms](https://github.com/lohek330/lihongkang.github.io/blob/master/files/thesis_hongkang_Li.pdf), 2024.
 
 <!---
 {% for post in site.publications reversed %}
