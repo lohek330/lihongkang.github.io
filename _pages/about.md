@@ -24,6 +24,8 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
+2025.09: 😺 One paper accepted by Neurips 2025. See you in San Diego.
+
 2025.06: ❤️ I completed my six great years at RPI and have joined the University of Pennsylvania as a postdoctoral researcher 🚀. 
 
 2025.05: 😺 Our paper [Theoretical Learning Performance of Graph Networks: the Impact of Jumping Connections and Layer-wise Sparsification](https://openreview.net/forum?id=Q9AkJpfJks&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) is accepted by TMLR. 
@@ -34,7 +36,7 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 
 2025.02: 🚀 Our paper [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) is selected as an <font color=red><b>oral presentation</b></font> at ICLR 2025 (acceptance rate = 1.8%). 
 
-2025.01: 😺 😺 😺 Three papers, including two first-author works, were accepted in ICLR 2025: ⭐ [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://openreview.net/forum?id=n7n8McETXw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ⭐ [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), and ⭐ [Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://openreview.net/forum?id=t9lS1lX9FQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)).
+2025.01: 😺 😺 😺 Three papers, including two first-author papers, were accepted in ICLR 2025: ⭐ [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://openreview.net/forum?id=n7n8McETXw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ⭐ [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), and ⭐ [Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://openreview.net/forum?id=t9lS1lX9FQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)).
 
 2024.11: I have passed my doctoral dissertation exam! 🎓
 
