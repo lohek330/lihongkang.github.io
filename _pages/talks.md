@@ -12,9 +12,9 @@ author_profile: true
 {% endif %}
 
 ------
+* **Theoretical Foundations of Chain-of-Thought with Trained Nonlinear Transformer Models**. IBM-RPI FCRC Seminar Series, 2025. [slides](https://lohek330.github.io/lihongkang.github.io/files/cot_IBM_slides.pdf)
 
-
-* **Theoretical and Algorithmic Foundations of In-Context Learning Using Properly Trained Transformer Models**. IBM-RPI FCRC Seminar Series. [slides](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_slides.pdf); [poster](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_poster2.pdf) 
+* **Theoretical and Algorithmic Foundations of In-Context Learning Using Properly Trained Transformer Models**. IBM-RPI FCRC Seminar Series, 2024. [slides](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_slides.pdf); [poster](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_poster2.pdf) 
 
 *  **A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity**. ICLR 2023 poster presentation. [video](https://iclr.cc/virtual/2023/poster/11387)
 
