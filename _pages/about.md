@@ -24,7 +24,7 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
-2025.10: Invited talk titled [Theoretical Perspectives of Efficient Learning for Large Foundation Models](https://today.iit.edu/ece-graduate-research-seminar-by-hongkang-li-theoretical-perspectives-of-efficient-learning-for-large-foundation-models/) at Illinois Tech. 
+2025.10: Invited [talk]((https://today.iit.edu/ece-graduate-research-seminar-by-hongkang-li-theoretical-perspectives-of-efficient-learning-for-large-foundation-models/)) titled "Theoretical Perspectives of Efficient Learning for Large Foundation Models" at Illinois Tech. 
 
 2025.09: 😺 One paper accepted by Neurips 2025. See you in San Diego.
 
@@ -42,7 +42,7 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 
 2024.11: I have passed my doctoral dissertation exam! 🎓
 
-2024.10: Invited talk titled "Theoretical Foundations of In-Context Learning and Chain-of-Thought Using Properly Trained Transformer Models" at NJIT. 
+2024.10: Invited [talk](https://ds.njit.edu/fall-2024) titled "Theoretical Foundations of In-Context Learning and Chain-of-Thought Using Properly Trained Transformer Models" at NJIT. 
 
 2024.09: 😺 One paper accepted by Neurips 2024.
 
