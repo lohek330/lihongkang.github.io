@@ -12,7 +12,11 @@ author_profile: true
 {% endif %}
 
 ------
+* **Theoretical Perspectives of Efficient Learning for Large Foundation Models**. Illinois Tech ECE Graduate Research Seminar, 2025. [slides](https://lohek330.github.io/lihongkang.github.io/files/IIT_2025.pdf)
+
 * **Theoretical Foundations of Chain-of-Thought with Trained Nonlinear Transformer Models**. IBM-RPI FCRC Seminar Series, 2025. [slides](https://lohek330.github.io/lihongkang.github.io/files/cot_IBM_slides.pdf)
+
+* **Theoretical Foundations of In-Context Learning and Chain-of-Thought Using Properly Trained Transformer Models**. NJIT Data Science Seminar, 2024. [slides](https://lohek330.github.io/lihongkang.github.io/files/NJIT_2024.pdf)
 
 * **Theoretical and Algorithmic Foundations of In-Context Learning Using Properly Trained Transformer Models**. IBM-RPI FCRC Seminar Series, 2024. [slides](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_slides.pdf); [poster](https://lohek330.github.io/lihongkang.github.io/files/icl_ibm_poster2.pdf) 
 
