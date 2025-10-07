@@ -24,7 +24,7 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
-2025.10: Invited [talk]((https://today.iit.edu/ece-graduate-research-seminar-by-hongkang-li-theoretical-perspectives-of-efficient-learning-for-large-foundation-models/)) titled "Theoretical Perspectives of Efficient Learning for Large Foundation Models" at Illinois Tech. 
+2025.10: Invited [talk](https://today.iit.edu/ece-graduate-research-seminar-by-hongkang-li-theoretical-perspectives-of-efficient-learning-for-large-foundation-models/) titled "Theoretical Perspectives of Efficient Learning for Large Foundation Models" at Illinois Tech. 
 
 2025.09: 😺 One paper accepted by Neurips 2025. See you in San Diego.
 
