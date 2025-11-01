@@ -24,6 +24,8 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
+2025.10: I am happy to give a guest lecture at the Machine Learning course of UCF. Thanks [Yuzhang](https://42shawn.github.io/) for the invitation!
+
 2025.10: I am honored to be selected as the Top Reviewer of Neurips 2025. 
 
 2025.10: I will serve as the Area Chair of [CPAL 2026](https://cpal.cc/). 
