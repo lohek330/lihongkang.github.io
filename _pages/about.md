@@ -24,6 +24,8 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
+2025.12: ⭐ I am thrilled to announce that I have been awarded the 2025 IEEE Signal Processing Society Best Ph.D. Dissertation Award. Only three people won this award this year. 
+
 2025.10: I am happy to give a guest lecture at the Machine Learning course of UCF. Thanks [Yuzhang](https://42shawn.github.io/) for the invitation!
 
 2025.10: I am honored to be selected as the Top Reviewer of Neurips 2025. 
