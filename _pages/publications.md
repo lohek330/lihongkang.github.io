@@ -15,7 +15,7 @@ author_profile: true
 
 # Preprints
 \* represents equal contribution
-* Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts."
+* **Hongkang Li**, Songtao Lu, Xiaodong Cui, Pin-Yu Chen, Meng Wang. "Can mamba learn in context with outliers? a theoretical generalization analysis."
 
 ------
 
@@ -23,6 +23,9 @@ author_profile: true
 # Conference Papers
 \* represents equal contribution
 
+* Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts." AISTATS 2026.
+* Jiawei Sun, Shuai Zhang, **Hongkang Li**, Meng Wang. [Contrastive Learning with Data Misalignment: Feature Purity, Training Dynamics and Theoretical
+Generalization Guarantees](https://openreview.net/pdf?id=JMlYzOMDxI), Neurips 2025. 
 * **Hongkang Li**, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen. [Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis](https://openreview.net/forum?id=n7n8McETXw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ICLR 2025.
 * **Hongkang Li**, Yihua Zhang, Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen. [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ICLR 2025 🔥 **Oral**.
 * Yuankai Luo, **Hongkang Li**, Qijiong Liu, Lei Shi, Xiao-Ming Wu. [Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://openreview.net/forum?id=t9lS1lX9FQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), ICLR 2025.
