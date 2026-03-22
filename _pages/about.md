@@ -46,7 +46,7 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 
 2025.05: ⭐ I am honored to be recognized as an [ICLR 2025 Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers).
 
-2025.03: ⭐ I am awarded the [MLCommons ML and Systems Rising Star Award](https://mlcommons.org/about-us/programs/). Only 38 of over 150 applicants were accepted.
+2025.03: ⭐ I am awarded the [MLCommons ML and Systems Rising Star Award](https://mlcommons.org/2025/06/2025-mlc-rising-stars/). Only 38 of over 150 applicants were accepted.
 
 2025.02: 🚀 Our paper [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/forum?id=vRvVVb0NAz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) is selected as an <font color=red><b>oral presentation</b></font> at ICLR 2025 (acceptance rate = 1.8%). 
 
