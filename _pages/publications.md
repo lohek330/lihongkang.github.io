@@ -15,7 +15,7 @@ author_profile: true
 
 # Preprints
 \* represents equal contribution
-* **Hongkang Li**, Songtao Lu, Xiaodong Cui, Pin-Yu Chen, Meng Wang. "Can mamba learn in context with outliers? a theoretical generalization analysis."
+* Jiawei Sun, Shuai Zhang, **Hongkang Li**, Sijia Liu, Pin-Yu Chen, Meng Wang. "Enhanced Generation in Diffusion Models via Joint High-to-Low Denoising Schedule and Model Sparsity with Theoretical Guarantees."
 
 ------
 
@@ -23,6 +23,8 @@ author_profile: true
 # Conference Papers
 \* represents equal contribution
 
+* **Hongkang Li**, Hancheng Min, Rene Vidal. "[Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](https://arxiv.org/pdf/2604.10074)", ICML 2026.
+* **Hongkang Li**, Songtao Lu, Xiaodong Cui, Pin-Yu Chen, Meng Wang. "[How Can Mamba Learn In Context with Outliers and Generalize Provably?](https://arxiv.org/pdf/2510.00399?)" ICML 2026. 
 * Yihua Zhang\*, **Hongkang Li\***, Yuguang Yao\*, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu. "Visual Prompting Reimagined: The Power of Activation Prompts." AISTATS 2026.
 * Jiawei Sun, Shuai Zhang, **Hongkang Li**, Meng Wang. [Contrastive Learning with Data Misalignment: Feature Purity, Training Dynamics and Theoretical
 Generalization Guarantees](https://openreview.net/pdf?id=JMlYzOMDxI), Neurips 2025. 
