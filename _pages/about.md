@@ -24,6 +24,12 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
+2026.08: 😺 One paper accepted by TMLR 2026.
+
+2026.06: I am happy to give an invited [talk](https://fancityu.github.io/materials/Hongkang%20Li%20poster.pdf) titled "Towards a Mathematical Theory of Foundation Models" at the Frontier of Artificial Network Seminar hosted by City University of Hong Kong. 
+
+2026.06: 😺 One paper accepted by ECCV 2026.
+
 2026.04: 🚀 🚀 Two first-author papers were accepted in ICML 2026: ⭐ [Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](https://arxiv.org/pdf/2604.10074), ⭐ [How Can Mamba Learn In Context with Outliers and Generalize Provably?](https://arxiv.org/pdf/2510.00399?).
 
 2026.01: 🚀 One co-first-authored paper "Visual prompting reimagined: The power of activation prompts" is accepted by AISTATS 2026. 
