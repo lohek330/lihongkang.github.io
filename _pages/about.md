@@ -24,6 +24,8 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 ------
 # Recent News 🔥
 
+2026.09: 😺 I will serve as an Area Chair for ICLR 2027.
+
 2026.08: 😺 One paper accepted by TMLR 2026.
 
 2026.06: I am happy to give an invited [talk](https://fancityu.github.io/materials/Hongkang%20Li%20poster.pdf) titled "Towards a Mathematical Theory of Foundation Models" at the Frontier of Artificial Network Seminar hosted by City University of Hong Kong. 
