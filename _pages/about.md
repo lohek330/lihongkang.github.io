@@ -14,15 +14,20 @@ redirect_from:
 I am a postdoctoral researcher of [Department of Electrical and Systems Engineering](https://www.ese.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). My advisor is Prof. [Rene Vidal](https://www.grasp.upenn.edu/people/rene-vidal/). Previously, I received my PhD degree from the [Department of Electrical, Computer, and Systems Engineering](https://ecse.rpi.edu/about) of [Rensselaer Polytechnic Institute](https://www.rpi.edu/) in 2024. My advisor is Prof. [Meng Wang](https://sites.ecse.rpi.edu/~wang/). I received my Bachelor's degree from the Department of Electronic Engineering and Information Science at the University of Science and Technology of China in 2019. Here is my [CV](../lihongkang.github.io/assets/CV.pdf).
 
 My research area is machine learning and deep learning theory. My research interests include
-+ Generalization and optimization theory of Transformer-based foundation models.
-+ Theoretical parameter-efficient fine-tuning.
-+ Graph neural network and its theory.
++ **Theory of Foundation Models**: optimization, feature learning, generalization, and mechanisms of Transformers, state-space models, and generative models.
++ **Efficient and Trustworthy AI**: data- and inference-efficient learning, robustness, and interpretability.
 
-Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
+Contact: lihk@engineering.upenn.edu, lohek330@gmail.com.
 
 
 ------
 # Recent News 🔥
+
+2026.11: ⭐ I am thrilled to announce that I have been awarded the [IEEE BigData 2026 Future Faculty Rising Star Award](https://bigdataieee.org/BigData2026/calls/future-faculty-highlights/).
+
+2026.11: I am happy to give an invited [talk](https://nxtai-conference.com/speakers) titled "How Foundation Models Learn, Adapt, and Generate: A Mathematical Perspective" at the International Conference on Next-Generation AI \& Machine Learning.
+
+2026.10: I will serve as the Area Chair of [CPAL 2027](https://cpal.cc/) and [ICASSP 2027](https://2027.ieeeicassp.org/). 
 
 2026.09: 😺 I will serve as an Area Chair for ICLR 2027.
 
@@ -32,7 +37,9 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 
 2026.06: 😺 One paper accepted by ECCV 2026.
 
-2026.04: 🚀 🚀 Two first-author papers were accepted in ICML 2026: ⭐ [Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](https://arxiv.org/pdf/2604.10074), ⭐ [How Can Mamba Learn In Context with Outliers and Generalize Provably?](https://arxiv.org/pdf/2510.00399?).
+2026.05: I am honored to be selected as a Gold Reviewer for ICML 2026. 
+
+2026.04: 🚀 🚀 Two first-author papers were accepted at ICML 2026: ⭐ [Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](https://arxiv.org/pdf/2604.10074), ⭐ [How Can Mamba Learn In Context with Outliers and Generalize Provably?](https://arxiv.org/pdf/2510.00399?).
 
 2026.01: 🚀 One co-first-authored paper "Visual prompting reimagined: The power of activation prompts" is accepted by AISTATS 2026. 
 
@@ -42,7 +49,7 @@ Contact: lihk@seas.upenn.edu, lohek330@gmail.com.
 
 2025.10: I am happy to give a guest lecture at the Machine Learning course of UCF. Thanks [Yuzhang](https://42shawn.github.io/) for the invitation!
 
-2025.10: I am honored to be selected as the Top Reviewer of Neurips 2025. 
+2025.10: I am honored to be selected as a Top Reviewer for NeurIPS 2025. 
 
 2025.10: I will serve as the Area Chair of [CPAL 2026](https://cpal.cc/) and [ICASSP 2026](https://2026.ieeeicassp.org/). 
 
