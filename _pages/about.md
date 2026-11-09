@@ -25,7 +25,7 @@ Contact: lihk@engineering.upenn.edu, lohek330@gmail.com.
 
 2026.11: ⭐ I am thrilled to announce that I have been awarded the [IEEE BigData 2026 Future Faculty Rising Star Award](https://bigdataieee.org/BigData2026/calls/future-faculty-highlights/).
 
-2026.11: I am happy to give an invited [talk](https://nxtai-conference.com/speakers) titled "How Foundation Models Learn, Adapt, and Generate: A Mathematical Perspective" at the International Conference on Next-Generation AI \& Machine Learning.
+2026.11: I am happy to give an invited [talk](https://nxtai-conference.com/speakers) titled "How Foundation Models Learn, Adapt, and Generate: A Mathematical Perspective" at the International Conference on Next-Generation AI & Machine Learning.
 
 2026.10: I will serve as the Area Chair of [CPAL 2027](https://cpal.cc/) and [ICASSP 2027](https://2027.ieeeicassp.org/). 
 
